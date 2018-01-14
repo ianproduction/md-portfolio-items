@@ -1,5 +1,5 @@
-# 리디북스_페이퍼프로
-# COMMERCIAL-FILM
-# https://player.vimeo.com/video/248829846
+# 생활도감_감사제홍보영상
+# VIRAL-FILM
+# https://player.vimeo.com/video/249400064
 # thumbnail-02.png
 
